@@ -1,0 +1,19 @@
+{
+  "name": "smart-brain",
+  "version": "1.0.0",
+  "description": "A face tracking website that uses Clarifai to locate faces in an uploaded photo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieceOfMilk/Smart-Brain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PieceOfMilk/Smart-Brain/issues"
+  },
+  "homepage": "https://github.com/PieceOfMilk/Smart-Brain#readme"
+}
