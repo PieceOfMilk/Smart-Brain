@@ -2,7 +2,7 @@
 
 A face tracking website that uses Clarifai to locate faces in an uploaded photo.
 
-Make sure to run npm install before trying anything because I have not included the node modules folder.
+***The Clarifai API key has expired and will not work***
 
 To start:
 1. Open a terminal and cd into 'smart-brain-api' and run npm install and npm start
