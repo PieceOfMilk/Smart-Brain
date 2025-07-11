@@ -2,7 +2,10 @@
 
 A face tracking website that uses Clarifai to locate faces in an uploaded photo.
 
-Make sure to run npm init before trying anything because I have not included the node modules folder.
+Make sure to run npm install before trying anything because I have not included the node modules folder.
 
-***I HAVE NOT FINISHED THE COMPLETE INTEGRATION WITH A DATABASE YET. IT ONLY WORKS WITH A LOCAL DATABASE THAT I MADE***
+To start:
+1. Open a terminal and cd into 'smart-brain-api' and run npm install and npm start
+2. Open another terminal 
+3. cd into 'smart-brain' and run npm install and npm start
  
